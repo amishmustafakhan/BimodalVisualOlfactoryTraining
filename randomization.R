@@ -1,4 +1,4 @@
-#randomization_production.R
+#randomization.R
 #Create randomization sequence list for study arm assignment
 
 setwd("/") #Set working directory
